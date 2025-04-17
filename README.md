@@ -15,11 +15,13 @@
 - 👯 Abierto a colaborar en proyectos de código abierto o startups tecnológicas.
 
 
-
 ---
 
 ### 🛠️ Lenguajes y Herramientas:
 <p align="left">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  </a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
   </a>
@@ -47,8 +49,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=BryanFG01&show_icons=true&theme=github_dark" alt="Bryan's GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanFG01&layout=compact&theme=github_dark" alt="Top Langs" height="180"/>
 </p>
-
----
-
-
-
