@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Bryan Fernández</h1>
-<h3 align="center">Desarrollador Full-Stack | React • Fuller • Next.js • TypeScript • Node.js</h3>
+<h3 align="center">Desarrollador Full-Stack | React • Flutter • Next.js • TypeScript • Node.js</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bryan-alberto-fern%C3%A1ndez-guerrero-01339b204/" target="_blank">
