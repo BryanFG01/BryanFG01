@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Bryan Fernández</h1>
-<h3 align="center">Desarrollador Full-Stack | React • React Native • Next.js • TypeScript • Node.js</h3>
+<h3 align="center">Desarrollador Full-Stack | React • Fuller • Next.js • TypeScript • Node.js</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bryan-alberto-fern%C3%A1ndez-guerrero-01339b204/" target="_blank">
@@ -16,7 +16,7 @@
 
 Desarrollador Full-Stack con experiencia en la creación de aplicaciones web y móviles escalables. Me especializo en construir soluciones tecnológicas aplicando buenas prácticas, arquitectura limpia y metodologías ágiles.
 
-- 🔭 Actualmente trabajo con **React**, **Next.js**, **TypeScript** y **React Native + Expo**
+- 🔭 Actualmente trabajo con **React**, **Next.js**, **TypeScript** y **Fuller + Expo**
 - 🌱 Fortaleciendo conocimientos en **arquitectura de software**, **pruebas automatizadas** y **DevOps**
 - 💼 Experiencia en desarrollo de sistemas ERP y aplicaciones empresariales
 - 🎯 Enfocado en crear código limpio, mantenible y escalable
@@ -39,7 +39,7 @@ Desarrollador Full-Stack con experiencia en la creación de aplicaciones web y m
 
 #### Mobile
 <p align="left">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Fuller-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Fuller"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
 </p>
 
