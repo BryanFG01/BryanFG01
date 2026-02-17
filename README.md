@@ -16,7 +16,7 @@
 
 Desarrollador Full-Stack con experiencia en la creación de aplicaciones web y móviles escalables. Me especializo en construir soluciones tecnológicas aplicando buenas prácticas, arquitectura limpia y metodologías ágiles.
 
-- 🔭 Actualmente trabajo con **React**, **Next.js**, **TypeScript** y **Fuller + Expo**
+- 🔭 Actualmente trabajo con **React**, **Next.js**, **TypeScript** y **Fuller**
 - 🌱 Fortaleciendo conocimientos en **arquitectura de software**, **pruebas automatizadas** y **DevOps**
 - 💼 Experiencia en desarrollo de sistemas ERP y aplicaciones empresariales
 - 🎯 Enfocado en crear código limpio, mantenible y escalable
