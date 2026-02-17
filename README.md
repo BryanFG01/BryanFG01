@@ -40,7 +40,6 @@ Desarrollador Full-Stack con experiencia en la creación de aplicaciones web y m
 #### Mobile
 <p align="left">
   <img src="https://img.shields.io/badge/Fuller-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Fuller"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
 </p>
 
 #### Backend & Base de Datos
